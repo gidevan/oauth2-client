@@ -9,7 +9,7 @@
 	<packaging>jar</packaging>
 
 	<name>oauth2-client</name>
-	<description>Oaut2 example client</description>
+	<description>Oauth2 example client</description>
 
 	<parent>
 		<groupId>org.springframework.boot</groupId>
